@@ -25,7 +25,7 @@ const App = () => grid`
 usage
 ---
 
-add 'es-grid-kiss/lib/babel' to the `plugins` field of your babel config
+add `'es-grid-kiss/lib/babel'` to the `plugins` field of your babel config
 
 nb:
 ---
