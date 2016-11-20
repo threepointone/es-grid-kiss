@@ -30,3 +30,8 @@ add `'es-grid-kiss/lib/babel'` to the `plugins` field of your babel config
 nb:
 ---
 css grids are behind flags on major browsers, and the [polyfill](https://github.com/FremyCompany/css-grid-polyfill/) gives mixed results. ymmv.
+
+todo 
+---
+
+- non-babel version
