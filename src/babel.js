@@ -33,7 +33,6 @@ module.exports = {
           }
           return arr
         }, []).join('')
-        console.log(src)
         let input =  parse({ value: src })
         
         let ret = {

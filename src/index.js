@@ -1,7 +1,5 @@
 import React from 'react'
-import { style, plugins } from 'glamor'
-
-plugins.clear()
+import { style } from 'glamor'
 
 export function grid(spec, elements) {
   return <div className={style(spec)}>{
