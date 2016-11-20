@@ -1,6 +1,6 @@
 {
   "name": "es-grid-kiss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "license": "MIT",
   "dependencies": {
