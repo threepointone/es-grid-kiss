@@ -33,5 +33,5 @@ css grids are behind flags on major browsers, and the [polyfill](https://github.
 
 todo 
 ---
-
+- css only fallback
 - non-babel version, if there's any demand
